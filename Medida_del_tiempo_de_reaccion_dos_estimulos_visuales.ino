@@ -8,8 +8,7 @@
 //  Plataforma: Arduino
 //
 //  Funcionalidad: Medir el tiempo de reacción visual de una persona,
-//  realizar una sería de operaciones estadísticas básicas,para luego
-//  mostrarlas por pantalla.
+//  realizar una serie de operaciones estadísticas básicas y las muestra por pantalla.
 //
 /////////////////////////////////////////////////////////////////////////
 
